@@ -7,8 +7,9 @@ To give a place to plan, write, and track various videos destined for the Mudlet
 Tracking is done via the project at https://github.com/orgs/Mudlet/projects/1 .
 
 1. Add an idea for a video as a note in the Open column, and try to slot it about where you think it should fit in the production run
-2. When you're ready to write the script for it, drag it to the `Script In Progress` column, and convert it into an issue in this repository.
-3. When the script is written and ready for review, drag it to the `Script In Review` column. 
+   * If you see one and wish to comment on it, convert it into an issue in this repository, and add your comment to the new issue. 
+3. When you're ready to write the script for it, drag it to the `Script In Progress` column, and convert it into an issue in this repository if it didn't happen in step 1
+4. When the script is written and ready for review, drag it to the `Script In Review` column. 
     * It should stay in this column for at least 2 days to allow time to review
     * Add `# Script` at the top of the issue description, and paste the script below.
 5. If the script is not rejected and no changes are requested, you can then move the card to the `Recording Video` column when you are ready to start recording the raw footage and audio
